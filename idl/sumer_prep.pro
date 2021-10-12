@@ -24,6 +24,9 @@ for ii = 0, sizeof(filenames) - 1 do begin
     ybin = binz(header_data)
     date_obs = expsta(header_data)
     expt = exptim(header_data)
+    magnification,wvl_ref*2,1,mag_a,d_lam_a,mag_b,d_lam_b
+    if detector(header_data) eq 1 then dlamb = d_lam_a
+    if detector(header_data) eq 2 then dlamb = d_lam_b
 
     print,"Reference pixel number before reversion: ",pixpos(header_data)
     print,"Reference pixel number after reversion: ",ref_pix
@@ -32,6 +35,7 @@ for ii = 0, sizeof(filenames) - 1 do begin
     print,"Solar-Y center",ycen
     print,"Spatial binning X",xbin
     print,"Spatial binning Y",ybin
+    print,"Wavelength per pixel",dlamb
 
     ;determine the detector
     if detector(header_data) eq 1 then detector_name = "A"
@@ -80,7 +84,7 @@ for ii = 0, sizeof(filenames) - 1 do begin
     
     filename_save = "../raw_data/sumer/20071116/level1/"+strmid(filenames[ii],32,29,/reverse_offset)+"_l1.sav"
     save,filename = filename_save,image_lvl1,ref_pix,wvl_ref,xcen, $
-        ycen,xbin,ybin,date_obs,expt,slit_number,detector_name
+        ycen,xbin,ybin,date_obs,expt,slit_number,detector_name,dlamb
 
 
 end
