@@ -2,7 +2,7 @@
 ---
 A messy GitHub repository for my paper measuring ion temperatures at the polar coronal hole boundary region observed by Hinode/EIS and SOHO/SUMER. Some Jupyter notebooks use [my naive Python scripts](https://github.com/yjzhu-solar/MyPy).
 
-Links to the Jupyter notebooks for each Figure:
+Links to the Jupyter notebooks for each Figure (Recommend to open these notebooks in [nbviewer](nbviewer.org) to enable the internal hyperlinks in notebooks):
 
 [Figure 1](/ipynb/check_eit_img.ipynb): Positions of the EIS and SUMER slits overplotted on SOHO/EIT 195 context images.
 
