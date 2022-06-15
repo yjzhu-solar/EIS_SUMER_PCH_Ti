@@ -1,0 +1,46 @@
+Predicted XUV Line Intensities
+CHIANTI database - Version 10.0.1
+Calculated with Constant density=  1.00e+08 (cm-3) 
+694.0 to 749.6 Angstroms
+Number of lines:  3
+Minimum intensity =      0.042322469
+Units are:  erg cm-2 sr-1 s-1
+Calculated: 13/May/22 15:15:46
+
+Ionization Fractions file: chianti.ioneq
+ionization equilibrium:  CHIANTI
+ produced as part of the CHIANTI atomic data base collaboration
+  Created on Fri Oct  9 11:46:20 2020
+
+ Elemental Abundance file: sun_photospheric_2015_scott.abund
+created for the CHIANTI atomic database by Peter Young, 16-Aug-2017
+abundances (F to Ca):
+   Scott et al., 2015, A\&A, 573, A25
+   DOI: 10.1051/0004-6361/201424109
+abundances (Sc to Ni):
+   Scott et al., 2015, A\&A, 573, A26
+   DOI: 10.1051/0004-6361/201424110
+abundances (Cu \& Zn):
+   Grevesse et al., 2015, A\&A, 573, A27
+   DOI: 10.1051/0004-6361/201424111
+abundances (other elements):
+   Asplund, M., Grevesse, N., Sauval, A.J., \& Scott, P. 2009, ARAA, 47, 481
+   DOI: 10.1146/annurev.astro.46.060407.145222
+comment:
+   This updates the Asplund et al. (2009) results for elements F and higher. The changes
+   are mostly small.
+Minimum abundance =   3.89045e-05
+
+Differential Emission Measure file: coronal_hole.dem
+filename: coronal\_hole.dem
+dem: produced by chianti\_dem.pro 
+ Comment: the DEM was derived using the Vernazza \& Reeves 1978 ApJSS, 37, 485 average coronal hole,
+           the sun\_coronal.abund file and a constant pressure of 3.00e+15 cm-3 K.
+ produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+   K.P.Dere  - Aug 2002
+
+Wavelength (A) Intensity  Ion        Tmax  Transition 
+
+694.0060     4.23e-02 Mg IX         5.95   2s2 1S0 - 2s 2p 3P2
+706.0600     3.70e-01 Mg IX         5.95   2s2 1S0 - 2s 2p 3P1
+749.5520     5.25e-02 Mg IX         5.95   2s 2p 1P1 - 2p2 1D2

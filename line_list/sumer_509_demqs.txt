@@ -1,0 +1,124 @@
+Predicted XUV Line Intensities
+CHIANTI database - Version 9.0
+Calculated with Constant density=  1.00e+09 (cm-3) 
+1015.5 to 1063.9 Angstroms
+Number of lines:  87
+Minimum intensity =    9.8245316e+08
+Units are:  photons cm-2 sr-1 s-1
+Calculated: 17/May/21 14:26:57
+
+Ionization Fractions file: chianti.ioneq
+ionization equilibrium:  CHIANTI
+ produced as part of the CHIANTI atomic data base collaboration
+  Created on Thu Dec  7 13:00:33 2017
+
+ Elemental Abundance file: sun_photospheric_2011_caffau.abund
+created for the CHIANTI atomic database by Peter Young, 27-Jun-2012
+abundance: Caffau, E., Ludwig, H.-G., Steffen, M., Freytag, B. \& Bonifacio, P. 2011, Sol. Phys. 
+              268, 255  <bibcode="2011SoPh..268..255C">
+            Lodders, K., Palme, H., \& Gail, H.P. 2009, Astronomy, Astrophysics, and Cosmology, B: 
+              Solar System, Landolt-Bornstein, New Series VI/4, Spring, Berlin, 560 
+              <bibcode="2009LanB...4B...44L">
+comment:
+   Caffau et al. (2011) provided new abundances for 12 elements, 8 of which have Z<31. Caffau et al.
+   recommend combining these values with the abundances of Lodders et al. (2009), and so all other
+   abundances are from this paper.
+Minimum abundance =   4.16869e-08
+
+Differential Emission Measure file: quiet_sun.dem
+filename: quiet\_sun.dem
+dem: produced by chianti\_dem.pro
+ Comment: the DEM was derived using the Vernazza \& Reeves 1978 ApJSS, 37, 485 average Quiet Sun,
+           the sun\_coronal.abund file and a constant pressure of 3.00e+15 cm-3 K.
+ produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+   K.P.Dere  - Aug 2002
+
+Wavelength (A) Intensity  Ion        Tmax  Transition 
+
+1015.4960    2.75e+10 S III          4.7   3s2.3p2 3P1 - 3s.3p3 3P0
+1015.5610    2.56e+10 S III          4.7   3s2.3p2 3P1 - 3s.3p3 3P1
+1015.7750    4.90e+10 S III          4.7   3s2.3p2 3P1 - 3s.3p3 3P2
+1016.4110    3.51e+09 Fe III         4.3   3s2 3p6 3d6 3H5 - 3s2 3p6 3d5 4p 3H4
+1017.2540    1.14e+11 Fe III         4.3   3s2 3p6 3d6 3H6 - 3s2 3p6 3d5 4p 3H6
+1017.7450    4.08e+10 Fe III         4.3   3s2 3p6 3d6 3H5 - 3s2 3p6 3d5 4p 3H5
+1018.2850    6.12e+10 Fe III         4.3   3s2 3p6 3d6 3H4 - 3s2 3p6 3d5 4p 3H4
+1018.3160    1.41e+09 Fe III         4.4   3s2 3p6 3d6 3D2 - 3s2 3p6 3d5 4p 3P2
+1018.9010    1.98e+09 Fe XI          6.1   3s2 3p3 3d 5D3 - 3s2 3p3 3d 3F4
+1019.5280    2.66e+11 S II           4.0   3s2 3p3 2D3/2 - 3p2(3P)4s 2P1/2
+1019.8940    2.37e+09 Fe III         4.3   3s2 3p6 3d6 3H5 - 3s2 3p6 3d5 4p 3F4
+1020.0630    1.71e+09 Fe III         4.3   3s2 3p6 3d6 3P1 - 3s2 3p6 3d5 4p 5P2
+1020.6990    1.58e+11 Si II          4.0   3s2.3p 2P1/2 - 3s2.5s 2S1/2
+1021.1050    2.32e+10 S III          4.7   3s2.3p2 3P2 - 3s.3p3 3P1
+1021.3210    8.78e+10 S III          4.7   3s2.3p2 3P2 - 3s.3p3 3P2
+1021.6620    1.16e+09 Fe III         4.4   3s2 3p6 3d6 3D1 - 3s2 3p6 3d5 4p 3P1
+1021.7810    1.73e+10 Fe III         4.3   3s2 3p6 3d6 3H4 - 3s2 3p6 3d5 4p 3F4
+1022.0730    2.23e+09 Fe III         4.3   3s2 3p6 3d6 3F2 - 3s2 3p6 3d5 4p 3P2
+1023.7000    3.16e+11 Si II          4.0   3s2.3p 2P3/2 - 3s2.5s 2S1/2
+1025.7220    9.82e+16 H I            4.0   1s 2S1/2 - 3p 2P3/2
+1025.7230    4.91e+16 H I            4.0   1s 2S1/2 - 3p 2P1/2
+1025.9020    1.14e+09 Fe III         4.3   3s2 3p6 3d6 3P1 - 3s2 3p6 3d5 4p 3F2
+1025.9680    1.42e+10 Mg II          4.0   3s 2S1/2 - 5p 2P3/2
+1026.1140    7.44e+09 Mg II          4.0   3s 2S1/2 - 5p 2P1/2
+1026.7910    7.72e+09 Fe III         4.4   3s2 3p6 3d6 3G5 - 3s2 3p6 3d5 4p 3G5
+1028.0240    1.37e+10 Fe X           6.1   3s2 3p4 3d 4D7/2 - 3s2 3p4 3d 2F7/2
+1028.0820    3.79e+09 Fe X           6.1   3s2 3p4 3d 4D5/2 - 3s2 3p4 3d 2F7/2
+1028.5530    1.34e+10 Fe III         4.3   3s2 3p6 3d6 3F4 - 3s2 3p6 3d5 4p 3H4
+1028.9550    9.51e+09 Fe XI          6.1   3s2 3p3 3d 5D4 - 3s2 3p3 3d 3F4
+1030.8350    1.34e+09 Fe III         4.4   3s2 3p6 3d6 3G4 - 3s2 3p6 3d5 4p 3G5
+1030.8870    7.25e+09 S II           4.0   3s2 3p3 2P1/2 - 3p2(1D)4s 2D3/2
+1030.9240    2.92e+09 Fe III         4.4   3s2 3p6 3d6 3G4 - 3s2 3p6 3d5 4p 3G4
+1031.0730    2.22e+09 Fe III         4.3   3s2 3p6 3d6 3F3 - 3s2 3p6 3d5 4p 3H4
+1031.1320    1.12e+10 Fe III         4.3   3s2 3p6 3d6 3F4 - 3s2 3p6 3d5 4p 3F3
+1031.1530    2.05e+09 Fe III         4.4   3s2 3p6 3d6 3G4 - 3s2 3p6 3d5 4p 3G3
+1031.3690    1.67e+10 S II           4.0   3s2 3p3 2P3/2 - 3p2(1D)4s 2D5/2
+1031.3831    3.13e+09 S II           4.0   3s2 3p3 2P3/2 - 3p2(1D)4s 2D3/2
+1031.6720    4.50e+09 Fe III         4.4   3s2 3p6 3d6 1F3 - 3s2 3p6 3d5 4p 1G4
+1031.9120    6.36e+12 O VI           5.5   1s2.2s 2S1/2 - 1s2.2p 2P3/2
+1032.1200    9.31e+10 Fe III         4.3   3s2 3p6 3d6 3F4 - 3s2 3p6 3d5 4p 3F4
+1033.3000    2.58e+09 Fe III         4.4   3s2 3p6 3d6 3G3 - 3s2 3p6 3d5 4p 3G3
+1033.6650    6.87e+10 Fe III         4.3   3s2 3p6 3d6 3F3 - 3s2 3p6 3d5 4p 3F3
+1034.0620    9.82e+08 Fe III         4.4   3s2 3p6 3d6 3F2 - 3s2 3p6 3d5 4p 3G3
+1034.6580    7.57e+09 Fe III         4.3   3s2 3p6 3d6 3F3 - 3s2 3p6 3d5 4p 3F4
+1035.3490    6.82e+09 Fe III         4.3   3s2 3p6 3d6 3F2 - 3s2 3p6 3d5 4p 3F3
+1035.9700    9.31e+09 Fe III         4.3   3s2 3p6 3d6 3G4 - 3s2 3p6 3d5 4p 5F5
+1036.3370    5.55e+12 C II           4.1   2s2 2p 2P1/2 - 2s 2p2 2S1/2
+1036.6591    6.12e+09 Fe III         4.3   3s2 3p6 3d6 3F3 - 3s2 3p6 3d5 4p 3F2
+1037.0179    1.10e+13 C II           4.1   2s2 2p 2P3/2 - 2s 2p2 2S1/2
+1037.6130    3.18e+12 O VI           5.5   1s2.2s 2S1/2 - 1s2.2p 2P1/2
+1038.3530    3.72e+10 Fe III         4.3   3s2 3p6 3d6 3F2 - 3s2 3p6 3d5 4p 3F2
+1040.3199    1.17e+10 O III          5.1   2s.2p3 1P1 - 2s2.2p3p 1D2
+1045.3640    1.27e+09 O IV           5.2   2s2 3p 2P1/2 - 2s2 4s 2S1/2
+1045.7629    1.01e+11 S II           4.3   3s2 3p3 2D5/2 - 3p2(3P)3d 4F7/2
+1046.3130    2.54e+09 O IV           5.2   2s2 3p 2P3/2 - 2s2 4s 2S1/2
+1047.5540    2.24e+10 S II           4.3   3s2 3p3 2D3/2 - 3p2(3P)3d 4F5/2
+1047.9030    2.44e+10 S II           4.3   3s2 3p3 2D5/2 - 3p2(3P)3d 4F5/2
+1047.9640    1.26e+09 Fe III         4.3   3s2 3p6 3d6 3H6 - 3s2 3p6 3d5 4p 5H6
+1049.0530    5.62e+10 S II           4.2   3s2 3p3 2D3/2 - 3p2(3P)3d 4F3/2
+1049.1530    1.07e+10 Si VII         5.8   2s2.2p4 3P1 - 2s2.2p4 1S0
+1049.4030    3.41e+09 S II           4.2   3s2 3p3 2D5/2 - 3p2(3P)3d 4F3/2
+1049.7700    1.33e+10 S II           4.3   3s2 3p3 2P1/2 - 3s 3p4 2S1/2
+1050.2850    2.48e+10 S II           4.3   3s2 3p3 2P3/2 - 3s 3p4 2S1/2
+1051.6930    1.81e+09 S VII          5.9   2s2 2p5 3s 3P2 - 2s2 2p5 3p 3S1
+1052.7510    1.01e+09 Fe III         4.3   3s2 3p6 3d6 3H5 - 3s2 3p6 3d5 4p 5H5
+1053.1130    1.47e+09 Fe III         4.4   3s2 3p6 3d6 3D2 - 3s2 3p6 3d5 4p 3F2
+1053.2190    3.61e+09 Fe III         4.4   3s2 3p6 3d6 3D1 - 3s2 3p6 3d5 4p 3F2
+1053.4990    2.89e+09 Fe III         4.4   3s2 3p6 3d6 3D2 - 3s2 3p6 3d5 4p 3F3
+1053.9960    4.48e+09 Al VII         5.8   2s2.2p3 4S3/2 - 2s2.2p3 2P3/2
+1054.6851    1.17e+09 Ar XII         6.3   2s2.2p3 4S3/2 - 2s2.2p3 2D3/2
+1055.0730    4.35e+09 Fe III         4.4   3s2 3p6 3d6 3D3 - 3s2 3p6 3d5 4p 3F3
+1056.0540    1.90e+09 Fe III         4.4   3s2 3p6 3d6 3F4 - 3s2 3p6 3d5 4p 3F4
+1056.9150    1.88e+09 Al VII         5.8   2s2.2p3 4S3/2 - 2s2.2p3 2P1/2
+1057.2410    7.23e+09 Fe III         4.4   3s2 3p6 3d6 3D3 - 3s2 3p6 3d5 4p 3F4
+1057.5830    1.34e+09 Fe III         4.3   3s2 3p6 3d6 3G3 - 3s2 3p6 3d5 4p 3P2
+1057.8879    1.30e+09 Al VIII        5.9   2p2 3P1 - 2p2 1S0
+1060.2590    1.18e+09 Fe III         4.4   3s2 3p6 3d6 3F2 - 3s2 3p6 3d5 4p 3F2
+1060.7240    1.51e+09 Fe III         4.4   3s2 3p6 3d6 3F3 - 3s2 3p6 3d5 4p 3F3
+1061.1350    7.54e+09 Fe III         4.4   3s2 3p6 3d6 3D2 - 3s2 3p6 3d5 4p 3D1
+1061.2430    1.89e+10 Fe III         4.4   3s2 3p6 3d6 3D1 - 3s2 3p6 3d5 4p 3D1
+1061.7100    3.09e+10 Fe III         4.4   3s2 3p6 3d6 3D2 - 3s2 3p6 3d5 4p 3D2
+1061.8180    1.38e+09 Fe III         4.4   3s2 3p6 3d6 3D1 - 3s2 3p6 3d5 4p 3D2
+1062.4060    2.59e+09 Fe VIII        5.8   3s2 3p6 4s 2S1/2 - 3s2 3p6 4p 2P3/2
+1062.6639    1.68e+11 S IV           5.0   3s2.3p 2P1/2 - 3s.3p2 2D3/2
+1063.3080    7.88e+09 Fe III         4.4   3s2 3p6 3d6 3D3 - 3s2 3p6 3d5 4p 3D2
+1063.6030    4.09e+09 Ar VII         5.6   3s.3p 1P1 - 3p2 1D2
+1063.8730    4.43e+10 Fe III         4.4   3s2 3p6 3d6 3D3 - 3s2 3p6 3d5 4p 3D3

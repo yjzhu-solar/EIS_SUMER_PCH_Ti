@@ -1,0 +1,58 @@
+Predicted XUV Line Intensities
+CHIANTI database - Version 9.0
+Calculated with Constant density=  1.00e+09 (cm-3) 
+1016.9 to 1063.6 Angstroms
+Number of lines:  25
+Minimum intensity =    1.0020243e+08
+Units are:  photons cm-2 sr-1 s-1
+Calculated: 17/May/21 13:51:46
+
+Ionization Fractions file: chianti.ioneq
+ionization equilibrium:  CHIANTI
+ produced as part of the CHIANTI atomic data base collaboration
+  Created on Thu Dec  7 13:00:33 2017
+
+ Elemental Abundance file: sun_coronal_2012_schmelz.abund
+Prepared for the CHIANTI atomic database by Peter Young, 26-Jun-2012
+element abundances: Schmelz, J.T., Reames, D.V., von Steiger, R., \& Basu, S. 2012, ApJ, 755, 33
+comment:
+  These are an updated version of the "hybrid" abundances of Fludra \& Schmelz (1999). Hybrid in this
+  case means that the low FIP elements are enhanced over photospheric, while the high FIP elements
+  are lower than photospheric. This is in contrast to e.g., Feldman et al. (1992) where the low FIP
+  elements have photospheric abundances. The magnitude of the FIP effect is the same in each case, 
+  however.
+comment
+  27-Jul-2012, updated reference. PRY.
+Minimum abundance =   1.81970e-07
+
+calculated with  isothermal approximation:
+log_10 T=5.8
+log_10 EM=27
+
+Wavelength (A) Intensity  Ion        Tmax  Transition 
+
+1016.9320    1.06e+08 Si VIII       -      2s2.2p2(3P)3p 4D7/2 - 2s2.2p2(3P)3d 4F7/2
+1017.4590    1.90e+09 Si VI         -      2s2.2p4(3P).3s 4P1/2 - 2s2.2p4(3P).3p 4S3/2
+1018.9010    1.89e+08 Fe XI         -      3s2 3p3 3d 5D3 - 3s2 3p3 3d 3F4
+1023.1230    1.22e+08 Fe X          -      3s2 3p4 4s 2D3/2 - 3s2 3p4 4p 2F5/2
+1025.7220    1.59e+11 H I           -      1s 2S1/2 - 3p 2P3/2
+1025.7230    7.94e+10 H I           -      1s 2S1/2 - 3p 2P1/2
+1028.0240    2.30e+10 Fe X          -      3s2 3p4 3d 4D7/2 - 3s2 3p4 3d 2F7/2
+1028.0820    6.35e+09 Fe X          -      3s2 3p4 3d 4D5/2 - 3s2 3p4 3d 2F7/2
+1028.9550    9.07e+08 Fe XI         -      3s2 3p3 3d 5D4 - 3s2 3p3 3d 3F4
+1030.3750    1.00e+08 Ca VIII       -      3s2.3d 2D5/2 - 3s.3p(3P).3d 4F7/2
+1031.9120    1.01e+13 O VI          -      1s2.2s 2S1/2 - 1s2.2p 2P3/2
+1037.3929    1.59e+08 Mg IV         -      2s2 2p4 3s 2P3/2 - 2s2 2p4 3p 2P3/2
+1037.4520    1.99e+08 Fe X          -      3s2 3p4 4s 4P5/2 - 3s2 3p4 4p 4P5/2
+1037.6130    5.07e+12 O VI          -      1s2.2s 2S1/2 - 1s2.2p 2P1/2
+1039.0510    3.31e+08 Si VI         -      2s2.2p4(3P).3s 4P5/2 - 2s2.2p4(3P).3p 2D5/2
+1045.9460    3.13e+08 P VI          -      2s2 2p5 3s 3P2 - 2s2 2p5 3p 3D3
+1046.2130    1.20e+09 Si VI         -      2s2.2p4(1D).3s 2D3/2 - 2s2.2p4(1D).3p 2D5/2
+1049.1530    2.24e+11 Si VII        -      2s2.2p4 3P1 - 2s2.2p4 1S0
+1049.9160    4.13e+08 Si V          -      2s2 2p5 3p 1D2 - 2s2 2p5 3d 3P2
+1051.6930    1.50e+10 S VII         -      2s2 2p5 3s 3P2 - 2s2 2p5 3p 3S1
+1053.9960    9.23e+10 Al VII        -      2s2.2p3 4S3/2 - 2s2.2p3 2P3/2
+1056.9150    3.87e+10 Al VII        -      2s2.2p3 4S3/2 - 2s2.2p3 2P1/2
+1057.8879    1.08e+10 Al VIII       -      2p2 3P1 - 2p2 1S0
+1062.4060    4.48e+10 Fe VIII       -      3s2 3p6 4s 2S1/2 - 3s2 3p6 4p 2P3/2
+1063.6030    6.86e+09 Ar VII        -      3s.3p 1P1 - 3p2 1D2

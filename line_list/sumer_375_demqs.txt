@@ -1,0 +1,102 @@
+Predicted XUV Line Intensities
+CHIANTI database - Version 9.0
+Calculated with Constant density=  1.00e+09 (cm-3) 
+750.2 to 791.1 Angstroms
+Number of lines:  59
+Minimum intensity =    5.8257304e+08
+Units are:  photons cm-2 sr-1 s-1
+Calculated: 15/May/21 21:22:04
+
+Ionization Fractions file: chianti.ioneq
+ionization equilibrium:  CHIANTI
+ produced as part of the CHIANTI atomic data base collaboration
+  Created on Thu Dec  7 13:00:33 2017
+
+ Elemental Abundance file: sun_photospheric_2015_scott.abund
+created for the CHIANTI atomic database by Peter Young, 16-Aug-2017
+abundances (F to Ca):
+   Scott et al., 2015, A\&A, 573, A25
+   DOI: 10.1051/0004-6361/201424109
+abundances (Sc to Ni):
+   Scott et al., 2015, A\&A, 573, A26
+   DOI: 10.1051/0004-6361/201424110
+abundances (Cu \& Zn):
+   Grevesse et al., 2015, A\&A, 573, A27
+   DOI: 10.1051/0004-6361/201424111
+abundances (other elements):
+   Asplund, M., Grevesse, N., Sauval, A.J., \& Scott, P. 2009, ARAA, 47, 481
+   DOI: 10.1146/annurev.astro.46.060407.145222
+comment:
+   This updates the Asplund et al. (2009) results for elements F and higher. The changes
+   are mostly small.
+Minimum abundance =   8.51138e-08
+
+Differential Emission Measure file: quiet_sun.dem
+filename: quiet\_sun.dem
+dem: produced by chianti\_dem.pro
+ Comment: the DEM was derived using the Vernazza \& Reeves 1978 ApJSS, 37, 485 average Quiet Sun,
+           the sun\_coronal.abund file and a constant pressure of 3.00e+15 cm-3 K.
+ produced as part of the Arcetri/Cambridge/NRL 'CHIANTI' atomic data base collaboration
+   K.P.Dere  - Aug 2002
+
+Wavelength (A) Intensity  Ion        Tmax  Transition 
+
+750.2210     1.91e+11 S IV           5.0   3s2.3p 2P3/2 - 3s.3p2 2P3/2
+752.4740     6.73e+08 Fe VIII        5.8   3s2 3p5 3d2 2P1/2 - 3s2 3p6 4d 2D3/2
+752.7600     1.08e+09 O III          5.1   2s.2p3 1P1 - 2p4 1S0
+753.7600     4.12e+10 S IV           5.0   3s2.3p 2P3/2 - 3s.3p2 2P1/2
+756.9790     1.47e+09 S IV           5.0   3s.3p2 4P3/2 - 3s.3p(3P).3d 4F5/2
+758.5420     3.34e+09 S IV           5.0   3s.3p2 4P5/2 - 3s.3p(3P).3d 4F7/2
+758.6770     1.74e+11 O V            5.4   2s.2p 3P1 - 2p2 3P2
+759.4420     1.36e+11 O V            5.4   2s.2p 3P0 - 2p2 3P1
+760.1190     6.21e+08 S IV           5.0   3s.3p2 4P5/2 - 3s.3p(3P).3d 4F5/2
+760.2270     1.02e+11 O V            5.4   2s.2p 3P1 - 2p2 3P1
+760.4460     5.19e+11 O V            5.4   2s.2p 3P2 - 2p2 3P2
+761.1280     1.28e+10 O V            5.4   2s.2p 3P1 - 2p2 3P0
+762.0040     1.68e+11 O V            5.4   2s.2p 3P2 - 2p2 3P1
+762.6600     3.42e+09 Mg VIII        5.9   2s2 2p 2P1/2 - 2s 2p2 4P3/2
+763.2150     4.02e+09 S II           4.4   3s2 3p3 2D3/2 - 3s 3p4 2P1/2
+763.3340     1.30e+11 N III          4.9   2s2 2p 2P1/2 - 2s 2p2 2S1/2
+763.6560     2.11e+10 S II           4.4   3s2 3p3 4S3/2 - 3p2(3P)3d 4P1/2
+764.3510     2.50e+11 N III          4.9   2s2 2p 2P3/2 - 2s 2p2 2S1/2
+764.4160     1.58e+10 S II           4.4   3s2 3p3 4S3/2 - 3p2(3P)3d 4P3/2
+765.1470     2.33e+12 N IV           5.2   2s2 1S0 - 2s.2p 1P1
+765.5740     7.77e+09 S II           4.4   3s2 3p3 2D5/2 - 3s 3p4 2P3/2
+765.6840     3.59e+10 S II           4.4   3s2 3p3 4S3/2 - 3p2(3P)3d 4P5/2
+769.3550     8.73e+09 Mg VIII        5.9   2s2 2p 2P1/2 - 2s 2p2 4P1/2
+770.4280     1.96e+12 Ne VIII        5.8   1s2.2s 2S1/2 - 1s2.2p 2P3/2
+771.5450     2.10e+09 N III          4.9   2s 2p2 4P1/2 - 2p3 4S3/2
+771.9010     4.20e+09 N III          4.9   2s 2p2 4P3/2 - 2p3 4S3/2
+772.2600     4.85e+10 Mg VIII        5.9   2s2 2p 2P3/2 - 2s 2p2 4P5/2
+772.3840     6.29e+09 N III          4.9   2s 2p2 4P5/2 - 2p3 4S3/2
+772.4570     2.14e+09 Ca VIII        5.8   3s2.3p 2P3/2 - 3s.3p2 4P5/2
+772.6900     1.06e+09 Al VIII        5.9   2p2 3P2 - 2s.2p3 5S2
+772.8890     4.58e+09 N III          4.9   2s 2p2 2D5/2 - 2p3 2P3/2
+772.9550     6.55e+08 N III          4.9   2s 2p2 2D3/2 - 2p3 2P1/2
+773.4600     7.07e+09 S II           4.4   3s2 3p3 2D3/2 - 3p2(1D)3d 2D3/2
+774.2550     5.83e+08 S II           4.4   3s2 3p3 2D3/2 - 3p2(1D)3d 2D5/2
+774.4450     1.02e+10 S II           4.4   3s2 3p3 2D5/2 - 3p2(1D)3d 2D5/2
+774.5180     4.21e+10 O V            5.4   2s.2p 1P1 - 2p2 1S0
+775.9650     9.66e+10 N II           4.6   2s2.2p2 1D2 - 2s.2p3 1D2
+776.3730     1.23e+10 S X            6.2   2s2.2p3 4S3/2 - 2s2.2p3 2P3/2
+779.7360     3.83e+09 O IV           5.2   2s 2p2 2D5/2 - 2p3 2D3/2
+779.8200     3.26e+10 O IV           5.2   2s 2p2 2D3/2 - 2p3 2D3/2
+779.9120     5.14e+10 O IV           5.2   2s 2p2 2D5/2 - 2p3 2D5/2
+779.9970     3.76e+09 O IV           5.2   2s 2p2 2D3/2 - 2p3 2D5/2
+780.3850     9.82e+11 Ne VIII        5.8   1s2.2s 2S1/2 - 1s2.2p 2P1/2
+782.3620     2.88e+10 Mg VIII        5.9   2s2 2p 2P3/2 - 2s 2p2 4P3/2
+782.9570     1.69e+09 S XI           6.2   2s2.2p2 3P1 - 2s2.2p2 1S0
+784.6890     1.86e+09 Fe III         4.4   3s2 3p6 3d6 5D1 - 3s2 3p6 3d5 4p 3P0
+785.2090     6.14e+09 Fe III         4.4   3s2 3p6 3d6 3H6 - 3s2 3p6 3d5 4p 3G5
+786.4680     7.63e+11 S V            5.2   3s2 1S0 - 3s.3p 1P1
+786.6160     7.48e+08 S II           4.4   3s2 3p3 2P1/2 - 3p2(1D)3d 2S1/2
+786.8070     1.27e+09 Ca VIII        5.8   3s2.3p 2P3/2 - 3s.3p2 4P3/2
+786.9050     2.01e+09 S II           4.4   3s2 3p3 2P3/2 - 3p2(1D)3d 2S1/2
+787.5570     5.35e+09 S X            6.2   2s2.2p3 4S3/2 - 2s2.2p3 2P1/2
+787.7100     2.08e+12 O IV           5.2   2s2 2p 2P1/2 - 2s 2p2 2D3/2
+789.0000     1.36e+09 S III          4.8   3s2.3p2 1D2 - 3s.3p3 3S1
+789.4090     7.30e+09 Mg VIII        5.9   2s2 2p 2P3/2 - 2s 2p2 4P1/2
+789.7830     3.19e+09 Na VIII        5.9   2s2 1S0 - 2s.2p 3P1
+790.1140     3.99e+11 O IV           5.2   2s2 2p 2P3/2 - 2s 2p2 2D3/2
+790.2010     3.79e+12 O IV           5.2   2s2 2p 2P3/2 - 2s 2p2 2D5/2
+791.0830     2.10e+09 Fe III         4.4   3s2 3p6 3d6 3H4 - 3s2 3p6 3d5 4p 3G3
