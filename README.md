@@ -14,7 +14,7 @@ Figure 3: Compare AWSoM-R results with in-situ measurements at 1 au. Plots are g
 
 [Figure 5](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/eis_fit/eis_fit_192_example.ipynb): Multi-Gaussian fitting example of blended lines at 192 angstrom. 
 
-[Figure 6](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sim_obs_comp/eis_awsom_comp.ipynb): Average effective velocity of Fe XII 192, 193, and 195 lines.
+[Figure 6](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sim_obs_comp/eis_average_eff.ipynb): Average effective velocity of Fe XII 192, 193, and 195 lines.
 
 [Figure 7](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/paper/Te_Ne_diag.ipynb): Electron density and temperature diagnostics using various line ratios. 
 
