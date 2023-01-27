@@ -1,6 +1,6 @@
 # EIS_SUMER_PCH_Ti
 ---
-A messy GitHub repository for my paper measuring ion temperatures at the polar coronal hole boundary region observed by Hinode/EIS and SOHO/SUMER. Some Jupyter notebooks use [my naive Python scripts](https://github.com/yjzhu-solar/MyPy).
+A messy GitHub repository for my paper measuring ion temperatures at the polar coronal hole boundary region observed by Hinode/EIS and SOHO/SUMER. Some Jupyter notebooks use [my naive Python scripts](https://github.com/yjzhu-solar/MyPy). The HTML exports of the Jupyter notebooks are available in the ipynb\_html directory.
 
 Links to the Jupyter notebooks for each Figure (Recommend to open these notebooks in [nbviewer](https://nbviewer.org) to enable the internal hyperlinks in notebooks):
 
