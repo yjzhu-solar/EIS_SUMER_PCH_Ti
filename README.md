@@ -8,7 +8,7 @@ Links to the Jupyter notebooks for each Figure (Recommend to open these notebook
 
 [Figure 2](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/eis_recalibrate_comp.ipynb): EIS onboard radiometric calibration curves from [Del Zanna (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...555A..47D/abstract) and [Warren et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJS..213...11W/abstract).
 
-[Figure 3](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sumer_fit/window_338_NaIX_example.ipynb): Single-Gaussian fitting example of Na IX 681 observed by SOHO/SUMER. 
+[Figure 3](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sim_obs_comp/eis_average_eff_v2.ipynb): Average effective velocity of Fe XII 192, 193, and 195 lines.
 
 [Figure 4](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/paper/Te_Ne_diag.ipynb): Electron density and temperature diagnostics using various line ratios. 
 
@@ -34,8 +34,9 @@ Links to the Jupyter notebooks for each Figure (Recommend to open these notebook
 
 [Figure B1](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sumer_fit/sumer_stray_intensity.ipynb): Line intensity variation along the SUMER slit
 
-[Figure C2](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/paper/eis_dlamb_inst_lamb.ipynb): EIS line width versus wavelength.
+[Figure C1](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/paper/eis_dlamb_inst_lamb.ipynb): EIS line width versus wavelength.
 
-[Figure D3a](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/eis_fit/eis_fit_192_example.ipynb): Multi-Gaussian fitting example of blended lines at 192 angstrom. 
+[Figure D1a](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sumer_fit/window_338_NaIX_example.ipynb): Single-Gaussian fitting example of Na IX 681 observed by SOHO/SUMER. 
 
-[Figure D3b](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/sim_obs_comp/eis_average_eff_v2.ipynb): Average effective velocity of Fe XII 192, 193, and 195 lines.
+[Figure D1b](https://nbviewer.org/github/yjzhu-solar/EIS_SUMER_PCH_Ti/blob/main/ipynb/eis_fit/eis_fit_192_example.ipynb): Multi-Gaussian fitting example of blended lines at 192 angstrom. 
+
